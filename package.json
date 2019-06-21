@@ -1,0 +1,18 @@
+{
+    "name": "NodeJsCRUD",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Vijay.Knowillence",
+    "contributors": [],
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.6.0"
+    }
+}
